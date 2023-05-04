@@ -1,0 +1,6 @@
+Name: Steven Rhenaldy 蘇年餘 
+No. B093040059
+
+Pointer can point to any data type. Pointer will save the memory address of the data you point.
+If you change the pointer, the data you point will also be changed.
+
